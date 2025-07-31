@@ -22,9 +22,6 @@ This is a simple authentication app built using **Vue 3**, **Vuex**, **Vuetify**
 ## 📦 Project Setup
 
 ```bash
-# Clone the project
-git clone https://github.com/your-username/auth-app.git
-
 # Navigate into the project
 cd auth-app
 
@@ -33,6 +30,7 @@ npm install
 
 # Run the development server
 npm run dev
+
 # Project structure
 src/
 │
